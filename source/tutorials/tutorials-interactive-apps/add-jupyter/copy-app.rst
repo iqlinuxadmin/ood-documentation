@@ -21,7 +21,7 @@ We will begin by first copying over a pre-built example Jupyter app.
 
       sudo mkdir -p /var/www/ood/apps/dev/<USERNAME>
       cd /var/www/ood/apps/dev/<USERNAME>
-      sudo ln -s /home/<USERNAME>/ondemand/dev gateway
+      sudo ln -s /home/<USERNAME>/ondemand/dev jupyter
 
    .. note::
 
